@@ -1,0 +1,29 @@
+.sidebarWholeDiv{
+    padding-top: 212px;
+    padding-left: 50px;
+    width: 390px;
+    min-height: 100vh;
+    background-color: #FFFFFF;
+    position: fixed;
+}
+
+.sidebarDiv{
+    padding: 14px 0 14px 14px;
+    font-family: Lexend-Regular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    color: #697184;
+}
+
+.sidebarDiv:hover{
+    cursor: pointer;
+    background-color:#E5E5E5;
+}
+
+#active{
+    background-color:#E5E5E5;
+}

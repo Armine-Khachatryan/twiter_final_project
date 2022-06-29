@@ -1,0 +1,26 @@
+.expansionsTwoHead{
+    display: flex;
+    margin-top: 148px;
+    justify-content: flex-end;
+    width: 450px;
+}
+
+.expansionPart{
+    width: 450px;
+}
+
+.no{
+    margin-left: 40px;
+}
+
+.expansionButtons{
+    display: flex;
+    justify-content: flex-end;
+    height: max-content;
+    align-self: flex-end;
+}
+
+.YesNoSpan{
+    border-bottom: 2px solid #697184 ;
+}
+

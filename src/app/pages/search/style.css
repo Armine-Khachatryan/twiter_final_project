@@ -1,0 +1,175 @@
+.searchWhole{
+    display: flex;
+}
+
+.searchInputDiv{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 24px
+}
+.searchOne{
+    margin-right: 100px;
+}
+
+.labelSearch{
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #697184;
+    margin-bottom: 10px;
+}
+
+.inputSearch{
+    padding: 12px 0px 12px 12px;
+    width:100%;
+    max-width: 750px;
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    background: #E5E5E5;
+    border: 1px solid #697184;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #697184;
+}
+
+.searchInputSmallDiv{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 24px;
+    margin-right: 30px;
+}
+
+.labelSearchSmall{
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #697184;
+    margin-bottom: 10px;
+}
+.selectInput{
+    padding: 12px 0px 12px 12px;
+    width:100%;
+    max-width: 750px;
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    background: #E5E5E5;
+    border: 1px solid #697184;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #697184;
+    cursor: pointer;
+}
+
+
+.selectdivs{
+    display: flex;
+}
+
+.inputSearchSmall{
+    padding: 12px 0px 12px 12px;
+    width: 360px;
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    background: #E5E5E5;
+    border: 1px solid #697184;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #697184;
+}
+.maxResultDiv{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 24px;
+}
+
+.maxInput{
+    padding: 12px 0px 12px 12px;
+    width: 180px;
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    background: #E5E5E5;
+    border: 1px solid #697184;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #697184;
+}
+.searchTwoHead{
+    display: flex;
+    margin-top: 148px;
+    justify-content: flex-end;
+}
+
+.searchTwo{
+    display: flex;
+    flex-direction: column;
+    margin-right: 70px;
+}
+
+
+.no{
+    margin-left: 40px;
+}
+
+
+.nextSearch{
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+    height: max-content;
+    margin-bottom: 60px;
+    margin-right: 60px;
+}
+
+.divForCalendar{
+    position: relative;
+}
+
+.belowOne{
+    margin-top: 50px !important;
+}
+
+
+.calendarImg{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    right: 16px;
+    z-index: 3;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.YesNoSpan{
+    border-bottom: 2px solid #697184;
+    display: flex;
+}
+
+.hidden{
+    display: none;
+}
+
+.errorClass{
+    border: 1px solid red;
+}
+
+*{outline: none}
+
+

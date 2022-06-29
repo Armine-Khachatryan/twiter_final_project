@@ -1,0 +1,130 @@
+.userLookUptitles{
+    display: flex;
+    margin-bottom: 30px;
+
+}
+.linkTitle{
+    font-family: Lexend-Regular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #697184;
+    margin-left: 20px;
+    max-width: 901px;
+    width: 100%;
+    white-space: nowrap;
+    display: flex;
+    align-items:center;
+    margin-top: 30px;
+}
+
+.userTitle{
+    max-width: 249px;
+    width: 100%;
+    white-space: nowrap;
+    display: flex
+}
+
+.userLookUpWhole{
+    display: flex;
+    flex-direction: column;
+}
+
+.userIdDiv{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.userSearch{
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #697184;
+    margin-bottom: 10px;
+}
+
+.inputUser{
+    padding: 12px 0px 12px 12px;
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    background: #E5E5E5;
+    border: 1px solid #697184;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #697184;
+    width: 750px;
+}
+
+.userIdDiv:last-child{
+    margin-bottom: 30px;
+}
+
+.userLookUpTwo{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.oneLine{
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+
+.oneLinePart{
+   width: 315px;
+}
+
+.oneLineWordDiv{
+    display: flex;
+    align-items: center;
+}
+
+
+.spanTextUserLook{
+    margin-left: 20px;
+    max-width: 354px;
+    width: 100%;
+}
+
+.yesDiv{
+    max-width: 315px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end
+}
+
+.yesSpan{
+    border-bottom: 2px solid #697184;
+}
+
+.spansDiv{
+    display: flex;
+    align-items: center;
+}
+
+.spansSmallDiv{
+    margin-left: 10px;
+    font-size: 14px !important;
+    white-space: nowrap;
+}
+
+.belowSpan{
+    margin-top: 5px;
+}
+
+.signSpan{
+    margin-left: 5px;
+    font-size: 25px;
+    color: #697184;
+    font-family: Lexend-Regular;
+}
+
+

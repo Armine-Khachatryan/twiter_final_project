@@ -1,0 +1,64 @@
+.cont{
+    max-width: 1530px;
+    width: 100%;
+}
+
+.x-json-view{
+    background-color: #E5E5E5 !important;
+}
+
+.savedWhole{
+    display: flex;
+}
+
+.savedDivForButton{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nextSaved{
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+    height: max-content;
+    margin-bottom: 60px;
+    margin-right: 60px;
+}
+
+.tab {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 20px;
+    font-family: Lexend-Medium;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.tabForBtns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.tableBtn{
+    width: 80px;
+    padding:10px 20px;
+    font-size: 18px;
+    line-height: 22px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.deleteOne{
+    display: flex;
+    justify-content: center;
+}
+
+.clickable{
+    cursor: pointer;
+}

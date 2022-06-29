@@ -1,0 +1,149 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color: #E5E5E5;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1530px;
+  width: 100%;
+  padding-left: 450px;
+  padding-right: 60px;
+}
+
+.NumberOneDiv{
+  display: flex;
+}
+
+
+.homeTitle{
+  font-family: 'Lexend-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 50px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: #697184;
+}
+
+.wordAndCheckbox{
+  display: flex;
+  align-items: center;
+  width: 317px;
+  justify-content: space-between;
+}
+
+.searchTwoHeadPart{
+  font-family: Lexend-Regular;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #697184;
+}
+
+.twoCheckboxes{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.one{
+  margin-right: 50px;
+}
+
+.nextBoxes{
+  margin-top: 20px;
+}
+
+.textStyle{
+  font-family: 'Lexend-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #697184;
+}
+
+
+.checkboxStyle{
+  width: 28px;
+  height: 28px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.buttonsDiv{
+  display: flex;
+}
+
+.nextBtn{
+  width: 122px;
+  padding:10px 36px;
+  font-family: Lexend-Medium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #FFFFFF;
+  background: #A30000;
+  border-radius: 10px;
+  margin-top: 25px;
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.backBtn{
+  width: 126px;
+  padding:10px 36px;
+  font-family: Lexend-Medium;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #A30000;
+  background: #E5E5E5;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-right: 20px;
+  border: 1px solid #A30000;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-top: 25px;
+}
+
+.main{
+  min-height: 100vh;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+}
+
+.noDiv{
+  width: 315px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.NoSpan{
+  border-bottom: 2px solid #697184;
+  height: 35px;
+}
+
+@font-face {
+  font-family: Lexend-Medium;
+  src: url(app/assets/fonts/Lexend/Lexend-Medium.ttf);
+}
+
+@font-face {
+  font-family: Lexend-Regular;
+  src: url(./app/assets/fonts/Lexend/Lexend-Regular.ttf);
+}
+

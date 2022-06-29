@@ -1,0 +1,58 @@
+.medias{
+    max-width: 1410px;
+}
+
+.mediaPlace{
+    display: flex;
+}
+
+.mediaPart{
+    margin-top: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mediaCheckboxesOne{
+    margin-top: 120px;
+}
+
+.mediaCheckboxesTwo{
+    margin-top: 120px;
+}
+
+.mediaListOne {
+    width: 180px;
+    margin-top: 60px;
+    margin-right: 400px;
+}
+
+.mediaListTwo{
+    width: 180px;
+    margin-top: 60px;
+}
+
+.mediaOne{
+    margin-right: 260px;
+}
+
+.requestSpan{
+    border-bottom: 2px solid #697184;
+}
+
+.mediaLists{
+    display: flex;
+}
+
+.mediaTexts{
+    display: flex;
+    margin-top: 70px;
+}
+
+.mediaTextsDivsOne{
+    display: block;
+    margin-right: 90px;
+}
+
+.mediaTextsDivsTwo{
+    display: block;
+}

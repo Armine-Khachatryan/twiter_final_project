@@ -1,0 +1,104 @@
+.conversationMainPart{
+
+}
+
+.conversationWhole{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.conversationOne{
+    display: flex;
+}
+
+.conversationIdDiv{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 77px;
+    margin-right: 205px;
+    /*width:100%;*/
+    /*max-width: 750px;*/
+}
+
+.conversationSearch{
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #697184;
+    margin-bottom: 10px;
+    /*width:100%;*/
+    /*max-width: 750px;*/
+}
+
+.inputConversation{
+    padding: 12px 0px 12px 12px;
+    /*width:100%;*/
+    /*max-width: 750px;*/
+    font-family: 'Lexend-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    background: #E5E5E5;
+    border: 1px solid #697184;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #697184;
+    width: 750px;
+}
+
+.excludeDiv{
+    width: 315px;
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+.excludeSpan{
+    border-bottom: 2px solid #697184;
+}
+
+.conversationTwo{
+max-width: 800px;
+    width: 100%;
+}
+
+.conversationTwoPart{
+    display: flex;
+}
+
+.noDiv{
+    max-width: 315px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.NoSpan{
+    border-bottom: 2px solid #697184;
+}
+
+.entities{
+    width: auto;
+}
+
+.entitiesPart{
+    max-width: 315px;
+    width: 100%;
+}
+
+.entitiesWordDiv{
+    display: flex;
+    align-items: center;
+}
+
+.spanTextConversation{
+    margin-left: 30px;
+    max-width: 387px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}

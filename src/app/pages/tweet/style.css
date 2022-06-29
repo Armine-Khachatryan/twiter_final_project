@@ -1,0 +1,93 @@
+.tweetWhole{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+}
+
+.buttonsDiv{
+    display: flex;
+    justify-content: flex-end;
+    height: max-content;
+    align-self: flex-end;
+    margin-bottom: 60px;
+    margin-right: 60px;
+}
+.tweetWholePart{
+    display: flex;
+    width: 70%;
+}
+
+.tweetPart{
+    margin-top: 0;
+    display: flex;
+}
+
+.tweetOne{
+ width: 30%;
+}
+
+.tweetTwo{
+    margin-right: 30px;
+}
+
+.organic{
+    width: auto;
+}
+
+.organicOne{
+    max-width: 317px;
+    width: 100% !important;
+}
+
+
+
+threePart{
+    padding-top: 400px;
+}
+
+.tweetThree{
+    height: 520px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+.spanTextTweet{
+    margin-left: 30px;
+    max-width: 604px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.wordAndCheckboxPart{
+    width: 315px;
+    display: flex;
+    justify-content: space-between
+}
+
+.organicWordDiv{
+    display: flex;
+    align-items: center;
+}
+
+.noDivTweet{
+    max-width: 315px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.NoSpanTweet{
+    border-bottom: 2px solid #697184;
+    height: 35px;
+}
+
+
+.hidden{
+    display: none;
+}
+
+
